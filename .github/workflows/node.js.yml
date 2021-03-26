@@ -1,4 +1,4 @@
-name: devops
+name: devops-01
 
 on:
   push:
